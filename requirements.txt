@@ -1,0 +1,7 @@
+numpy
+tensorflow
+torch
+torchvision
+configobj
+matplotlib
+cerberus
